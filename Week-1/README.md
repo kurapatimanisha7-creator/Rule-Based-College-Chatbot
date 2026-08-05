@@ -1,76 +1,124 @@
-Rule-Based College Chatbot
-This repository contains the work completed during my EDP Internship. The project focuses on building a Rule-Based College Chatbot that answers common college-related questions using Python.
+<div align="center">
 
-About the Project
-This project is developed step by step during the internship. Each week's folder contains the work completed for that week, including datasets, notebooks, source code, and documentation.
+# Week 1 - Dataset Preparation & Analysis
 
-Internship Progress
-Week	Topic	Status
-Week 1	Dataset Preparation & Analysis	✅ Completed
-Week 2	Rule-Based Chatbot Development	⏳ Upcoming
-Week 3	Chatbot Testing	⏳ Upcoming
-Week 4	User Interface	⏳ Upcoming
-Week 5	Project Integration	⏳ Upcoming
-Week 6	Final Testing & Documentation	⏳ Upcoming
-Repository Structure
-Rule-Based-College-Chatbot/
+**Rule-Based College Chatbot**
+
+</div>
+
+---
+
+## Overview
+
+During Week 1, the main focus was to prepare the dataset required for the Rule-Based College Chatbot. A custom dataset containing frequently asked college-related questions and answers was created, analyzed, and cleaned using Python and Pandas.
+
+---
+
+## Objective
+
+- Create a College FAQ dataset.
+- Analyze the dataset using Pandas.
+- Perform basic data preprocessing.
+- Save a cleaned version of the dataset.
+- Organize the project structure for future development.
+
+---
+
+## Folder Structure
+
+```text
+Week-1/
 │
-├── Week-1/
-│   ├── dataset/
-│   ├── cleaned_dataset/
-│   ├── notebooks/
-│   ├── src/
-│   ├── requirements.txt
-│   ├── .gitignore
-│   └── README.md
+├── dataset/
+│   └── college_faq.csv
 │
-├── Week-2/
-├── Week-3/
-├── Week-4/
-├── Week-5/
-└── Week-6/
-Week 1 Summary
-Task	Description
-Dataset	College FAQ Dataset
-Language	Python
-Library	Pandas
-Environment	Jupyter Notebook
-Objective	Create, analyze, and clean the chatbot dataset
-Tasks Completed
-Created a College FAQ dataset
-Stored the dataset in CSV format
-Loaded the dataset using Pandas
-Explored the dataset
-Checked for missing values
-Verified duplicate records
-Converted questions to lowercase
-Saved the cleaned dataset
-Organized the project folders
-Technologies Used
-Technology	Purpose
-Python	Programming Language
-Pandas	Data Analysis & Cleaning
-Jupyter Notebook	Data Exploration
-VS Code	Code Development
-Git	Version Control
-GitHub	Project Repository
-Learning Outcomes
-Created a custom chatbot dataset
-Learned to use Pandas for data analysis
-Performed basic data preprocessing
-Organized project folders
-Used Git and GitHub for version control
-Project Goal
-The goal of this project is to develop a Rule-Based College Chatbot that can answer frequently asked college-related questions quickly and accurately.
+├── cleaned_dataset/
+│   └── cleaned_college_faq.csv
+│
+├── notebooks/
+│   └── Data_Cleaning.ipynb
+│
+├── src/
+│
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
-The chatbot will be developed week by week, starting with dataset preparation and ending with a complete working application.
+---
 
-Author
-Kurapati Manisha
+## Dataset Details
+
+| Item | Description |
+|------|-------------|
+| Dataset Name | College FAQ Dataset |
+| File Format | CSV |
+| Language | English |
+| Records | 100+ Questions and Answers |
+| Columns | ID, Category, Question, Answer |
+
+---
+
+## Tasks Completed
+
+- Created a custom College FAQ dataset.
+- Stored the dataset in CSV format.
+- Loaded the dataset using Pandas.
+- Displayed the first and last records.
+- Checked dataset size and column names.
+- Verified data types.
+- Checked for missing values.
+- Identified duplicate records.
+- Converted questions to lowercase.
+- Saved the cleaned dataset.
+- Organized project folders.
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+## Files Created
+
+- `dataset/college_faq.csv`
+- `cleaned_dataset/cleaned_college_faq.csv`
+- `notebooks/Data_Cleaning.ipynb`
+- `requirements.txt`
+- `.gitignore`
+
+---
+
+## Learning Outcomes
+
+- Learned how to create a custom dataset.
+- Understood how to analyze CSV data using Pandas.
+- Performed basic data cleaning.
+- Organized project files in a professional way.
+- Learned to manage the project using Git and GitHub.
+
+---
+
+## Week 1 Outcome
+
+Successfully prepared and cleaned the College FAQ dataset. This dataset will be used in the next phase to develop the Rule-Based College Chatbot.
+
+---
+
+## Author
+
+**Kurapati Manisha**
 
 B.Tech – Information Technology
 
 Institute of Aeronautical Engineering
 
-GitHub: kurapatimanisha7-creator
-
+GitHub: **kurapatimanisha7-creator**
