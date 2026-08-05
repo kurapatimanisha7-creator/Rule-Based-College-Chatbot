@@ -1,0 +1,106 @@
+ID,Category,Question,Answer
+1,Greeting,hi,Hello! Welcome to the College Query Chatbot.
+2,Greeting,hello,Hi! How can I help you today?
+3,Greeting,good morning,Good Morning! Welcome to our college.
+4,Greeting,good evening,Good Evening! How can I assist you?
+5,Greeting,bye,Thank you! Have a nice day.
+6,Greeting,how are you,I am doing great! How can I help you?
+7,Greeting,who are you,I am the College Query Chatbot.
+8,Greeting,thank you,You're welcome! Happy to help.
+9,Greeting,thanks,You're welcome.
+10,Greeting,good night,Good Night! Take care.
+11,Admission,admission,Please visit the Admission Office for admission details.
+12,Admission,admission process,You can apply online or visit the Admission Office.
+13,Admission,eligibility,Please check the eligibility criteria on the college website.
+14,Admission,application form,Application forms are available on the college website.
+15,Admission,admission fee,Please contact the Accounts Office for fee details.
+16,Admission,last date for admission,Please check the academic calendar for admission deadlines.
+17,Admission,required documents,You need mark sheets, ID proof, photos, and transfer certificate.
+18,Admission,management quota,Please contact the Admission Office for management quota details.
+19,Admission,lateral entry,Lateral entry admissions are available for eligible diploma students.
+20,Admission,scholarship,Scholarships are available for eligible students.
+21,Courses,courses,We offer CSE, IT, ECE, EEE, AIML, Civil, and Mechanical Engineering.
+22,Courses,branches,Our college offers multiple engineering branches.
+23,Courses,computer science,CSE is one of our popular engineering programs.
+24,Courses,information technology,IT focuses on software development and networking.
+25,Courses,artificial intelligence,AIML specializes in Artificial Intelligence and Machine Learning.
+26,Courses,civil engineering,Civil Engineering focuses on construction and infrastructure.
+27,Courses,mechanical engineering,Mechanical Engineering deals with machines and manufacturing.
+28,Courses,electronics,ECE focuses on electronics and communication systems.
+29,Courses,electrical engineering,EEE deals with electrical systems and power engineering.
+30,Courses,duration of course,B.Tech course duration is 4 years.
+31,Library,library,The library is open from 9 AM to 5 PM.
+32,Library,library timing,Library working hours are 9 AM to 5 PM.
+33,Library,library books,Students can borrow books using their library ID.
+34,Library,digital library,Digital library facilities are available.
+35,Library,library card,Students receive a library card after admission.
+36,Library,book issue,Books can be issued for 14 days.
+37,Library,book return,Please return books before the due date.
+38,Library,newspapers,Daily newspapers and magazines are available.
+39,Library,reference books,Reference books can be used inside the library.
+40,Library,library rules,Maintain silence and handle books carefully.
+41,Hostel,hostel,Hostel facilities are available for boys and girls.
+42,Hostel,hostel fee,Please contact the Hostel Office for fee details.
+43,Hostel,hostel rooms,Both shared and individual rooms are available.
+44,Hostel,hostel facilities,Hostels provide Wi-Fi, mess, and security.
+45,Hostel,mess,Healthy food is provided in the hostel mess.
+46,Hostel,hostel timing,Students should follow hostel timing rules.
+47,Hostel,hostel warden,Each hostel has a dedicated warden.
+48,Hostel,room allocation,Rooms are allocated during admission.
+49,Hostel,hostel rules,Students must follow hostel regulations.
+50,Hostel,leave permission,Leave permission should be approved by the warden.
+51,Placement,placements,Our Placement Cell conducts training and campus drives.
+52,Placement,placement cell,The Placement Cell helps students prepare for jobs.
+53,Placement,companies,Many top companies visit our campus every year.
+54,Placement,highest package,Please contact the Placement Office for latest statistics.
+55,Placement,average package,Placement statistics are available on the college website.
+56,Placement,internship,Internship opportunities are provided through the Placement Cell.
+57,Placement,training,Placement training includes aptitude and interview preparation.
+58,Placement,mock interview,Mock interviews are conducted regularly.
+59,Placement,resume building,Resume preparation sessions are organized.
+60,Placement,placement eligibility,Eligibility depends on company requirements.
+61,Fees,fee structure,Please contact the Accounts Office for fee details.
+62,Fees,pay fees,Fees can be paid online or offline.
+63,Fees,online payment,Online fee payment is available.
+64,Fees,fee receipt,Fee receipts can be downloaded from the student portal.
+65,Fees,refund policy,Please contact the Accounts Office for refund policies.
+66,Fees,late fee,Late fee may be applicable after the due date.
+67,Fees,tuition fee,Please check the fee structure for tuition fees.
+68,Fees,hostel fee,Hostel fees are separate from tuition fees.
+69,Fees,bus fee,Transport fees depend on the selected route.
+70,Fees,scholarship amount,Scholarship amount depends on eligibility.
+71,Faculty,faculty,Our college has experienced faculty members.
+72,Faculty,HOD,Please visit the department office for HOD details.
+73,Faculty,principal,The Principal oversees all academic activities.
+74,Faculty,staff,Faculty details are available on the college website.
+75,Faculty,mentor,Each student is assigned a faculty mentor.
+76,Faculty,office hours,Faculty office hours are displayed in departments.
+77,Faculty,email faculty,Faculty email IDs are available on the website.
+78,Faculty,department office,Please visit your department office for assistance.
+79,Faculty,faculty room,Faculty rooms are located in each department.
+80,Faculty,contact faculty,Students can contact faculty during working hours.
+81,Examination,exam timetable,Exam schedules are published on the student portal.
+82,Examination,exam,Please check the Examination Branch for details.
+83,Examination,results,Results are announced on the official website.
+84,Examination,internal marks,Internal marks are available on the student portal.
+85,Examination,backlogs,Please contact the Examination Branch regarding backlogs.
+86,Examination,exam hall,Exam hall details are announced before exams.
+87,Examination,hall ticket,Hall tickets can be downloaded from the portal.
+88,Examination,revaluation,Students can apply for revaluation after results.
+89,Examination,supplementary exams,Supplementary exam notifications will be announced.
+90,Examination,attendance for exams,Minimum attendance is required to appear for exams.
+91,Campus,wifi,Campus Wi-Fi is available for students.
+92,Campus,bus facility,College buses are available on multiple routes.
+93,Campus,canteen,The canteen serves breakfast, lunch, and snacks.
+94,Campus,sports,Sports facilities are available for students.
+95,Campus,gym,A gym facility is available on campus.
+96,Campus,medical facility,First aid and medical assistance are available.
+97,Campus,student clubs,Various technical and cultural clubs are active.
+98,Campus,NSS,NSS activities are conducted regularly.
+99,Campus,NCC,NCC unit is available for eligible students.
+100,Campus,college timings,College working hours are from 9:00 AM to 4:30 PM.
+101,Library,where is library,The library is located in Block A.
+102,Library,library location,The library is located in Block A.
+103,Library,how to reach library,The library is located in Block A.
+104,Admission,how can i get admission,Please visit the Admission Office or apply online.
+105,Admission,how to join college,Please visit the Admission Office or apply online.jupyter notebook
