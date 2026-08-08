@@ -1,0 +1,101 @@
+ID,Category,Question,Answer
+1,Greeting,hi,Hello! Welcome to the College Query Chatbot.
+2,Greeting,hello,Hi! How can I help you today?
+3,Greeting,hey,Hello! How can I assist you?
+4,Greeting,good morning,Good Morning! Welcome to our college.
+5,Greeting,good afternoon,Good Afternoon! How can I help you?
+6,Greeting,good evening,Good Evening! How can I assist you?
+7,Greeting,how are you,I am doing great! How can I help you?
+8,Greeting,what can you do,I can answer common questions about the college.
+9,Greeting,who are you,I am the College Query Chatbot.
+10,Greeting,bye,Thank you! Have a nice day.
+11,Admission,admission,Please visit the Admission Office for admission details.
+12,Admission,how can I get admission,Please contact the Admission Office for the admission procedure.
+13,Admission,admission process,The admission process depends on the course and eligibility requirements.
+14,Admission,admission details,Please visit the college admission section for complete details.
+15,Admission,what are the eligibility criteria,Eligibility criteria vary according to the course.
+16,Admission,documents required for admission,Please contact the Admission Office for the list of required documents.
+17,Admission,when does admission start,Admission dates are announced by the college officially.
+18,Admission,how to apply for admission,You can apply through the official college admission process.
+19,Admission,admission office,The Admission Office helps students with admission-related queries.
+20,Admission,can I get admission information,Yes! Please contact the Admission Office for detailed information.
+21,Courses,courses,We offer CSE IT ECE EEE AIML Civil and Mechanical Engineering.
+22,Courses,what courses are available,The college offers several undergraduate and postgraduate courses.
+23,Courses,engineering courses,Engineering courses include CSE IT ECE EEE AIML Civil and Mechanical Engineering.
+24,Courses,cse,Computer Science and Engineering is one of the courses offered by the college.
+25,Courses,it course,Information Technology is one of the engineering courses offered.
+26,Courses,aiml course,Artificial Intelligence and Machine Learning is one of the courses offered.
+27,Courses,ece course,Electronics and Communication Engineering is offered by the college.
+28,Courses,eee course,Electrical and Electronics Engineering is offered by the college.
+29,Courses,civil engineering,Civil Engineering is one of the engineering courses offered.
+30,Courses,mechanical engineering,Mechanical Engineering is one of the engineering courses offered.
+31,Library,library,The library is open from 9 AM to 5 PM.
+32,Library,library timing,The library is open from 9 AM to 5 PM.
+33,Library,when is the library open,The library is open from 9 AM to 5 PM.
+34,Library,library books,The library provides books and learning resources for students.
+35,Library,can students borrow books,Students can borrow books according to library rules.
+36,Library,library facilities,The library provides books journals digital resources and study facilities.
+37,Library,digital library,The college library provides access to digital learning resources.
+38,Library,library rules,Students should follow the library rules while using the facilities.
+39,Library,where is the library,Please contact the college reception for the exact library location.
+40,Library,library membership,Students can use library services according to college library rules.
+41,Hostel,hostel,Hostel facilities are available for both boys and girls.
+42,Hostel,hostel facilities,The college provides hostel facilities for students.
+43,Hostel,boys hostel,Hostel facilities are available for boys.
+44,Hostel,girls hostel,Hostel facilities are available for girls.
+45,Hostel,hostel rooms,Students are provided accommodation according to hostel availability.
+46,Hostel,hostel food,Hostel students are provided food according to hostel arrangements.
+47,Hostel,hostel rules,Students staying in the hostel must follow hostel rules.
+48,Hostel,hostel admission,Students can contact the hostel office for hostel admission details.
+49,Hostel,hostel fee,Please contact the hostel office for the current fee details.
+50,Hostel,hostel timings,Students should follow the timings and rules specified by the hostel.
+51,Placement,placements,Our Placement Cell conducts training and campus drives.
+52,Placement,placement cell,The Placement Cell helps students with training and placement opportunities.
+53,Placement,placement training,The college conducts training programs to prepare students for placements.
+54,Placement,campus placements,Campus placement drives are conducted by the Placement Cell.
+55,Placement,placement companies,Various companies may participate in campus recruitment drives.
+56,Placement,placement eligibility,Placement eligibility depends on company and college requirements.
+57,Placement,how to prepare for placements,Students should improve technical skills aptitude communication and interview skills.
+58,Placement,placement opportunities,The Placement Cell provides information about available placement opportunities.
+59,Placement,internship opportunities,Students can check with the Placement Cell for internship opportunities.
+60,Placement,placement assistance,The Placement Cell provides assistance during the placement process.
+61,Fees,fees,Please contact the Accounts Office for detailed fee information.
+62,Fees,fee structure,The fee structure depends on the course and admission category.
+63,Fees,college fees,Please contact the Accounts Office for current college fee details.
+64,Fees,tuition fee,Tuition fees depend on the selected course.
+65,Fees,hostel fees,Please contact the hostel office for current hostel fee details.
+66,Fees,fee payment,Students can pay fees according to the college fee payment procedure.
+67,Fees,fee deadline,Fee payment deadlines are announced by the college.
+68,Fees,fee receipt,Students should keep their fee payment receipt for future reference.
+69,Fees,scholarship,Students can contact the scholarship section for scholarship information.
+70,Fees,fee concession,Please contact the college administration for information about available fee concessions.
+71,Examination,exam,The Examination Cell manages examination-related activities.
+72,Examination,exam timetable,The examination timetable is announced by the college.
+73,Examination,when are exams,Please check the official examination timetable for exam dates.
+74,Examination,exam rules,Students must follow the examination rules and regulations.
+75,Examination,hall ticket,Students can obtain hall tickets according to the examination procedure.
+76,Examination,internal exams,Internal examinations are conducted according to the academic schedule.
+77,Examination,semester exams,Semester examinations are conducted at the end of the academic term.
+78,Examination,result,Examination results are published through the official college process.
+79,Examination,exam cell,The Examination Cell handles examination-related queries and activities.
+80,Examination,exam registration,Students should complete examination registration within the specified deadline.
+81,Attendance,attendance,Students should maintain the minimum attendance required by college rules.
+82,Attendance,attendance percentage,Students can check their attendance through the college academic system.
+83,Attendance,minimum attendance,Students must maintain the minimum attendance percentage prescribed by the college.
+84,Attendance,attendance shortage,Students with attendance shortage should contact the concerned department.
+85,Attendance,how to check attendance,Attendance can be checked through the college academic portal or department.
+86,Faculty,faculty,The college has faculty members for different departments and subjects.
+87,Faculty,teachers,Faculty members help students with academic and subject-related queries.
+88,Faculty,hod,The Head of the Department manages the academic activities of the department.
+89,Faculty,contact faculty,Students can contact their respective faculty members during working hours.
+90,Faculty,faculty information,Faculty information is available through the respective department.
+91,Transport,transport,The college provides transportation facilities on selected routes.
+92,Transport,bus facility,Students can use the college bus facility according to the available routes.
+93,Transport,bus timings,Bus timings depend on the route and college transportation schedule.
+94,Transport,transport routes,Students can contact the transport office for available bus routes.
+95,Transport,bus pass,Students can contact the transport office for information about bus passes.
+96,General,college timings,College working hours are generally according to the academic schedule.
+97,General,college location,Please check the official college information for the exact campus location.
+98,General,student activities,The college conducts various academic cultural sports and technical activities.
+99,General,sports facilities,The college provides sports facilities for students.
+100,General,contact college,Please contact the college office or reception for further assistance.
