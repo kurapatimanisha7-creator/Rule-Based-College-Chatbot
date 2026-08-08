@@ -21,7 +21,7 @@ The project is developed in a structured, week-by-week approach. Each week focus
 | Week | Work | Status |
 |------|-------------------------------|--------|
 | Week 1 | Dataset Collection & Data Analysis | ✅ Completed |
-| Week 2 | Rule-Based Chatbot Logic | ⏳ Upcoming |
+| Week 2 | Rule-Based Chatbot Development & Testing |✅ Completed  |
 | Week 3 | Chatbot Testing & Improvements | ⏳ Upcoming |
 | Week 4 | User Interface Development | ⏳ Upcoming |
 | Week 5 | Project Integration | ⏳ Upcoming |
@@ -45,6 +45,12 @@ Rule-Based-College-Chatbot/
 │   └── README.md
 │
 ├── Week-2/
+|   ├── chatbot.ipynb
+|   ├── chatbot.py
+|   ├── cleaned_college_faq.csv
+|   ├── test_questions.csv
+|   ├── test_results.csv
+|   └── README.md
 ├── Week-3/
 ├── Week-4/
 ├── Week-5/
