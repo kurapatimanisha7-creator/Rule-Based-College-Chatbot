@@ -1,7 +1,12 @@
+<div align="center">
 
-# Week 2 - Rule-Based Chatbot Development
+# Week 2 - Rule-Based Chatbot Development & Testing
 
 **Rule-Based College Chatbot**
+
+</div>
+
+---
 
 ---
 
