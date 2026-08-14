@@ -1,8 +1,8 @@
 <div align="center">
 
-# Week 2 - Rule-Based Chatbot Development & Testing
+# Week 2 - Rule-Based Chatbot Development & Linear Regression
 
-**Rule-Based College Chatbot**
+
 
 </div>
 
@@ -33,7 +33,25 @@ The chatbot was also tested using 100 questions to evaluate its category classif
 - Calculate category classification accuracy.
 - Save the chatbot test results.
 
+  ### 2. Linear Regression
+
+- Created a Student Study Hours and Marks dataset.
+- Performed basic data analysis and preprocessing.
+- Divided the dataset into training and testing data.
+- Built a Linear Regression model using Scikit-learn.
+- Trained the model using training data.
+- Generated predictions for test data.
+- Evaluated the model using MAE, MSE, RMSE and R² Score.
+- Visualized the relationship between study hours and marks.
+
 ---
+## Skills Learned
+
+- Rule-Based Chatbot Development
+- Python Programming
+- Linear Regression
+- Machine Learning Model Evaluation
+- Data Analysis and Visualization
 
 ## Folder Structure
 
@@ -51,7 +69,13 @@ Week-2/
 ├── test_results.csv
 │
 └── README.md
+│
+└── linear_regression
+    │
+    ├── linear_regression.ipynb
+    └── student_marks.csv
 ```
+
 ---
 ## Dataset Details
 
@@ -67,24 +91,22 @@ Week-2/
 
 ---
 
+
 ## Tasks Completed
 
-- Loaded the cleaned College FAQ dataset.
-- Checked the dataset size and categories.
-- Preprocessed user questions.
-- Converted questions to lowercase.
-- Implemented exact question matching.
-- Implemented keyword-based category matching.
-- Added predefined responses for different categories.
-- Added a fallback response for unknown questions.
-- Developed an interactive Rule-Based College Chatbot.
-- Created a test dataset containing 100 questions.
-- Tested the chatbot using the test questions.
-- Calculated category classification accuracy.
-- Achieved approximately 69% category classification accuracy.
-- Saved the chatbot test results.
-- Created the `chatbot.py` Python file.
-- Organized the Week 2 project files.
+- Developed a Rule-Based College Chatbot.
+- Preprocessed and analyzed the College FAQ dataset.
+- Implemented exact and keyword-based question matching.
+- Created and tested 100 chatbot questions.
+- Achieved approximately 69% chatbot accuracy.
+- Created a Student Study Hours and Marks dataset.
+- Performed data preprocessing for Linear Regression.
+- Split data into training and testing sets.
+- Built and trained a Linear Regression model.
+- Generated predictions and evaluated model performance.
+- Calculated MAE, MSE, RMSE, and R² Score.
+- Created a Linear Regression visualization.
+- Organized Week 2 files and documented the project.
 
 ---
 
@@ -99,15 +121,6 @@ Week-2/
 - GitHub
 
 ---
-
-## Files Created
-
-- `chatbot.ipynb`
-- `chatbot.py`
-- `cleaned_college_faq.csv`
-- `test_questions.csv`
-- `test_results.csv`
-- `README.md`
 
 ---
 
@@ -135,6 +148,12 @@ The chatbot can identify common college-related questions using predefined rules
 The chatbot was tested using 100 questions and achieved approximately 69% category classification accuracy.
 
 The developed chatbot provides a foundation for future improvements such as fuzzy matching, Natural Language Processing (NLP), and a web-based chatbot interface.
+
+A Linear Regression model was successfully developed to predict student marks based on study hours.
+
+The dataset was divided into training and testing sets. The model was trained using the training data and evaluated using MAE, MSE, RMSE, and R² score.
+
+The results demonstrate the basic Machine Learning workflow of data preparation, model training, prediction, and evaluation.
 
 ---
 
