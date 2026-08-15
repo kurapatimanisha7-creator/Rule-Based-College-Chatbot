@@ -1,6 +1,6 @@
 <div align="center">
 
-# Week 2 - NLP-Based ML Chatbot
+# Week 3 - NLP-Based ML Chatbot
 
 **Rule-Based College Chatbot**
 
