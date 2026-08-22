@@ -1,1 +1,22 @@
-
+Question,Actual Category,Predicted Category,Correct
+electrical engineering,Courses,Courses,True
+principal,Faculty,Library,False
+lateral entry,Admission,Library,False
+hostel rooms,Hostel,Hostel,True
+supplementary exams,Examination,Examination,True
+highest package,Placement,Placement,True
+library rules,Library,Library,True
+college timings,Campus,Admission,False
+book issue,Library,Library,True
+ncc,Campus,Library,False
+bye,Greeting,Library,False
+how to reach library,Library,Library,True
+email faculty,Faculty,Faculty,True
+hostel warden,Hostel,Hostel,True
+admission fee,Admission,Admission,True
+thanks,Greeting,Library,False
+exam timetable,Examination,Examination,True
+tuition fee,Fees,Fees,True
+mock interview,Placement,Library,False
+bus fee,Fees,Fees,True
+computer science,Courses,Library,False

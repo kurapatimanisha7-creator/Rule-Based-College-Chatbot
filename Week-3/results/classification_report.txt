@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+   Admission       0.50      0.50      0.50         2
+      Campus       0.00      0.00      0.00         2
+     Courses       1.00      0.50      0.67         2
+ Examination       1.00      1.00      1.00         2
+     Faculty       1.00      0.50      0.67         2
+        Fees       1.00      1.00      1.00         2
+    Greeting       0.00      0.00      0.00         2
+      Hostel       1.00      1.00      1.00         2
+     Library       0.30      1.00      0.46         3
+   Placement       1.00      0.50      0.67         2
+
+    accuracy                           0.62        21
+   macro avg       0.68      0.60      0.60        21
+weighted avg       0.66      0.62      0.59        21
