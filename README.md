@@ -21,9 +21,9 @@ The project is developed in a structured, week-by-week approach. Each week focus
 | Week | Work | Status |
 |------|-------------------------------|--------|
 | Week 1 | Dataset Collection & Data Analysis | ✅ Completed |
-| Week 2 | Rule-Based Chatbot Development & Testing |✅ Completed  |
-| Week 3 | Improve rules and chatbot accuracy | ⏳ Upcoming |
-| Week 4 | User Interface Development | ⏳ Upcoming |
+| Week 2 | Rule-Based Chatbot Development & Linear Regression |✅ Completed  |
+| Week 3 | Improve rules and chatbot accuracy | ✅ Completed |
+| Week 4 | User Interface Development | ✅ Completed |
 | Week 5 | Project Integration | ⏳ Upcoming |
 | Week 6 | Final Testing & Documentation | ⏳ Upcoming |
 
