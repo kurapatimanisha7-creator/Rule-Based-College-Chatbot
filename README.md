@@ -16,89 +16,146 @@ The project is developed in a structured, week-by-week approach. Each week focus
 
 ---
 
-# 📅 Internship Progress
 
-| Week | Work | Status |
-|------|-------------------------------|--------|
-| Week 1 | Dataset Collection & Data Analysis | ✅ Completed |
-| Week 2 | Rule-Based Chatbot Development & Linear Regression |✅ Completed  |
-| Week 3 | ML-Based College Query Chatbot | ✅ Completed |
-| Week 4 | User Interface Development | ✅ Completed |
-| Week 5 | Project Integration | ⏳ Upcoming |
-| Week 6 | Final Testing & Documentation | ⏳ Upcoming |
+## 📈 Project Evolution
+
+| Week | Main Topic | Main Outcome |update|
+|------|------------|--------------|----------|
+| Week 1 | Data Collection & Cleaning | Clean FAQ Dataset |✅ Completed |
+| Week 2 | Rule-Based Chatbot | Basic College Chatbot |✅ Completed |
+| Week 3 | NLP & Machine Learning | ML-Based Chatbot |✅ Completed |
+| Week 4 | Intent Design | Intent-Based Query Understanding |✅ Completed |
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
-Rule-Based-College-Chatbot/
+College-Rule-Based-Chatbot/
 │
 ├── Week-1/
+│   │
 │   ├── dataset/
+│   │   └── college_faq.csv
+│   │
 │   ├── cleaned_dataset/
+│   │   └── cleaned_college_faq.csv
+│   │
 │   ├── notebooks/
+│   │   └── Data_Cleaning.ipynb
+│   │
 │   ├── src/
-│   ├── screenshots/
+│   │
 │   ├── requirements.txt
 │   ├── .gitignore
 │   └── README.md
 │
+│
 ├── Week-2/
-|   ├── chatbot.ipynb
-|   ├── chatbot.py
-|   ├── cleaned_college_faq.csv
-|   ├── test_questions.csv
-|   ├── test_results.csv
-|   └── README.md
+│   │
+│   ├── chatbot.ipynb
+│   ├── chatbot.py
+│   │
+│   ├── cleaned_college_faq.csv
+│   ├── test_questions.csv
+│   ├── test_results.csv
+│   │
+│   ├── linear_regression/
+│   │   ├── linear_regression.ipynb
+│   │   └── student_marks.csv
+│   │
+│   └── README.md
+│
+│
 ├── Week-3/
+│   │
+│   ├── dataset/
+│   │   └── cleaned_college_faq.csv
+│   │
+│   ├── notebooks/
+│   │   └── chatbot_ml.ipynb
+│   │
+│   ├── results/
+│   │   ├── chatbot_test_results.csv
+│   │   ├── classification_report.txt
+│   │   └── confusion_matrix.png
+│   │
+│   ├── src/
+│   │   └── chatbot.py
+│   │
+│   ├── README.md
+│   └── requirements.txt
+│
+│
 ├── Week-4/
-├── Week-5/
-├── Week-6/
+│   │
+│   ├── dataset/
+│   │   ├── cleaned_college_faq.csv
+│   │   └── intents.csv
+│   │
+│   ├── notebooks/
+│   │   └── intent_design.ipynb
+│   │
+│   ├── results/
+│   │   ├── intent_distribution.png
+│   │   └── intent_test_results.csv
+│   │
+│   ├── src/
+│   │   └── intent_detector.py
+│   │
+│   ├── chatbot.py
+│   ├── requirements.txt
+│   ├── .gitignore
+│   └── README.md
+│
+│
 └── README.md
 ```
 
 ---
 
-# 🎯 Project Objectives
 
-- Build a Rule-Based College Chatbot.
-- Create a College FAQ dataset.
-- Clean and organize the dataset.
-- Develop a chatbot using Python.
-- Provide accurate answers to student queries.
-- Improve user experience through simple interaction.
 
----
+## 🎯 Overall Learning Journey
 
-# ✨ Features
+```text
+Week 1
+     ↓
+Learned how to collect and clean data
 
-- Answers frequently asked college questions
-- Rule-based response system
+     ↓
+
+Week 2
+     ↓
+Learned how to build a basic rule-based chatbot
+
+     ↓
+
+Week 3
+     ↓
+Learned NLP, TF-IDF, Machine Learning
+and chatbot evaluation
+
+     ↓
+
+Week 4
+     ↓
+Learned Intent Design and Intent Detection
+
+     ↓
+
+Final Goal
+     ↓
+Build a more intelligent College Chatbot
+```
+
+
+e system
 - Custom College FAQ dataset
 - Easy to maintain and update
 - Fast response time
 - Simple and user-friendly design
 - Organized project structure
-
----
-
-# 📚 Topics Covered
-
-The chatbot can answer questions related to:
-
-- Admissions
-- Courses
-- Fees
-- Hostel
-- Library
-- Placements
-- Faculty
-- Scholarships
-- Examinations
-- Transport
-- Campus Facilities
-- Greetings and General Queries
 
 ---
 
@@ -113,67 +170,6 @@ The chatbot can answer questions related to:
 | CSV | Dataset Storage |
 | Git | Version Control |
 | GitHub | Repository Hosting |
-
----
-
-# 📁 Project Workflow
-
-```text
-Collect College FAQs
-        │
-        ▼
-Create CSV Dataset
-        │
-        ▼
-Analyze Dataset using Pandas
-        │
-        ▼
-Clean the Dataset
-        │
-        ▼
-Develop Rule-Based Chatbot
-        │
-        ▼
-Test the Chatbot
-        │
-        ▼
-Finalize the Project
-```
-
----
-
-# 📈 Expected Outcomes
-
-- Well-structured College FAQ dataset
-- Cleaned and organized data
-- Functional Rule-Based Chatbot
-- Accurate responses to user queries
-- Professional GitHub repository with proper documentation
-
----
-
-# 📖 Learning Outcomes
-
-Through this project, I learned:
-
-- Creating custom datasets
-- Working with CSV files
-- Data preprocessing using Pandas
-- Building a Rule-Based Chatbot
-- Organizing Python projects
-- Using Git and GitHub effectively
-- Writing project documentation
-
----
-
-# 🚀 Future Enhancements
-
-- Add Natural Language Processing (NLP)
-- Support multiple languages
-- Voice-based interaction
-- Web interface using Streamlit
-- Database integration
-- AI-powered chatbot responses
 
 ---
 
