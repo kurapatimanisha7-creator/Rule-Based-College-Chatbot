@@ -1,0 +1,101 @@
+intent,question
+greeting,Hello
+greeting,Hi
+greeting,Hey
+greeting,Good morning
+greeting,Good afternoon
+greeting,Good evening
+greeting,Hello chatbot
+greeting,Hi chatbot
+greeting,Hey there
+greeting,Can you help me
+admission,How can I apply for admission?
+admission,What is the admission process?
+admission,How do I get admission?
+admission,What are the admission requirements?
+admission,What is the eligibility for admission?
+admission,How can I join the college?
+admission,What documents are required for admission?
+admission,When does admission start?
+admission,Where can I apply for admission?
+admission,Tell me about the admission procedure
+courses,What courses are offered?
+courses,Which courses are available?
+courses,What programs are offered?
+courses,Which programs are available?
+courses,What B.Tech branches are available?
+courses,What degree programs are offered?
+courses,Tell me about the courses
+courses,What engineering programs are available?
+courses,Which branches does the college have?
+courses,What can I study at the college?
+fees,What are the college fees?
+fees,How much is the tuition fee?
+fees,What is the fee structure?
+fees,How much does the course cost?
+fees,Tell me about the fees
+fees,What are the tuition charges?
+fees,How much do I need to pay?
+fees,What is the yearly fee?
+fees,How much is the college fee?
+fees,Tell me the fee details
+examination,When are the exams?
+examination,When are the examinations conducted?
+examination,What is the exam schedule?
+examination,When will the exams be held?
+examination,Where can I find the exam timetable?
+examination,Tell me about the examination schedule
+examination,When are the semester exams?
+examination,What are the examination dates?
+examination,When is the next exam?
+examination,How can I check the exam schedule?
+library,What are the library timings?
+library,When does the library open?
+library,When does the library close?
+library,What are the library hours?
+library,Where is the library?
+library,Can students borrow books?
+library,How can I access the library?
+library,What facilities are available in the library?
+library,Is the library open on weekends?
+library,Tell me about the college library
+placement,Which companies recruit students?
+placement,What companies visit the college?
+placement,How are the placement opportunities?
+placement,What is the placement process?
+placement,When do placements start?
+placement,Which companies come for placements?
+placement,Does the college provide placements?
+placement,Tell me about campus placements
+placement,What are the placement opportunities?
+placement,Which recruiters visit the college?
+faculty,Who are the faculty members?
+faculty,Who teaches the students?
+faculty,Who are the professors?
+faculty,Can I get information about the faculty?
+faculty,Who teaches CSE students?
+faculty,Where can I find faculty information?
+faculty,Tell me about the teaching staff
+faculty,Who are the teachers in the college?
+faculty,How can I contact a faculty member?
+faculty,Can you provide faculty details?
+hostel,Is hostel accommodation available?
+hostel,Does the college provide hostel facilities?
+hostel,Is there a hostel for students?
+hostel,What are the hostel facilities?
+hostel,Where is the college hostel?
+hostel,How can I apply for hostel accommodation?
+hostel,Are hostel rooms available?
+hostel,Tell me about the hostel
+hostel,What facilities are provided in the hostel?
+hostel,Is hostel available for students?
+campus,What facilities are available on campus?
+campus,Tell me about the college campus
+campus,What are the campus facilities?
+campus,Where is the college located?
+campus,What facilities does the college have?
+campus,Can you tell me about the campus?
+campus,What is the college campus like?
+campus,What student facilities are available?
+campus,What infrastructure does the college have?
+campus,Tell me about the college facilities
