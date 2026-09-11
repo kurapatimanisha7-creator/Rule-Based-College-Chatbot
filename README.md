@@ -25,6 +25,7 @@ The project is developed in a structured, week-by-week approach. Each week focus
 | Week 2 | Rule-Based Chatbot | Basic College Chatbot |✅ Completed |
 | Week 3 | NLP & Machine Learning | ML-Based Chatbot |✅ Completed |
 | Week 4 | Intent Design | Intent-Based Query Understanding |✅ Completed |
+| Week 5 | Conversation State Management | Conversation State |✅ Completed |
 
 ---
 
@@ -107,9 +108,29 @@ College-Rule-Based-Chatbot/
 │   ├── requirements.txt
 │   ├── .gitignore
 │   └── README.md
-│
+│── Week-5/
+│   │
+│   ├── dataset/
+│   │   ├── cleaned_college_faq.csv
+│   │   └── intents.csv
+│   │
+│   ├── notebooks/
+│   │   └── conversation_state.ipynb
+│   │
+│   ├── results/
+│   │   └──  conversation_test_results.csv
+│   │   
+│   │
+│   ├── src/
+│   │   ├── intent_detector.py
+│   │   ├── conversation_state.py
+|   |   └── context_handler.py
+│   ├── chatbot.py
+│   ├── requirements.txt
+│   └── README.md
 │
 └── README.md
+
 ```
 
 ---
@@ -143,7 +164,10 @@ Week 4
 Learned Intent Design and Intent Detection
 
      ↓
-
+week 5
+     ↓
+continuous conversational chatbot instead of answering only independent questions.
+     ↓
 Final Goal
      ↓
 Build a more intelligent College Chatbot
