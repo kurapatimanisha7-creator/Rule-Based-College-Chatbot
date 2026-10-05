@@ -29,157 +29,89 @@ The project is developed in a structured, week-by-week approach. Each week focus
 
 ---
 
-## 📂 Repository Structure
 
-```text
-College-Rule-Based-Chatbot/
-│
-├── Week-1/
-│   │
-│   ├── dataset/
-│   │   └── college_faq.csv
-│   │
-│   ├── cleaned_dataset/
-│   │   └── cleaned_college_faq.csv
-│   │
-│   ├── notebooks/
-│   │   └── Data_Cleaning.ipynb
-│   │
-│   ├── src/
-│   │
-│   ├── requirements.txt
-│   ├── .gitignore
-│   └── README.md
-│
-│
-├── Week-2/
-│   │
-│   ├── chatbot.ipynb
-│   ├── chatbot.py
-│   │
-│   ├── cleaned_college_faq.csv
-│   ├── test_questions.csv
-│   ├── test_results.csv
-│   │
-│   ├── linear_regression/
-│   │   ├── linear_regression.ipynb
-│   │   └── student_marks.csv
-│   │
-│   └── README.md
-│
-│
-├── Week-3/
-│   │
-│   ├── dataset/
-│   │   └── cleaned_college_faq.csv
-│   │
-│   ├── notebooks/
-│   │   └── chatbot_ml.ipynb
-│   │
-│   ├── results/
-│   │   ├── chatbot_test_results.csv
-│   │   ├── classification_report.txt
-│   │   └── confusion_matrix.png
-│   │
-│   ├── src/
-│   │   └── chatbot.py
-│   │
-│   ├── README.md
-│   └── requirements.txt
-│
-│
-├── Week-4/
-│   │
-│   ├── dataset/
-│   │   ├── cleaned_college_faq.csv
-│   │   └── intents.csv
-│   │
-│   ├── notebooks/
-│   │   └── intent_design.ipynb
-│   │
-│   ├── results/
-│   │   ├── intent_distribution.png
-│   │   └── intent_test_results.csv
-│   │
-│   ├── src/
-│   │   └── intent_detector.py
-│   │
-│   ├── chatbot.py
-│   ├── requirements.txt
-│   ├── .gitignore
-│   └── README.md
-│── Week-5/
-│   │
-│   ├── dataset/
-│   │   ├── cleaned_college_faq.csv
-│   │   └── intents.csv
-│   │
-│   ├── notebooks/
-│   │   └── conversation_state.ipynb
-│   │
-│   ├── results/
-│   │   └──  conversation_test_results.csv
-│   │   
-│   │
-│   ├── src/
-│   │   ├── intent_detector.py
-│   │   ├── conversation_state.py
-|   |   └── context_handler.py
-│   ├── chatbot.py
-│   ├── requirements.txt
-│   └── README.md
-│
-└── README.md
+A Python-based College Rule-Based Chatbot developed to answer frequently asked questions related to college admissions, courses, fees, examinations, library, hostel, faculty, placements and campus facilities.
 
-```
+The project was developed step-by-step during a 9-week EDP internship, starting from dataset preparation and basic chatbot development and progressing to machine learning, intent detection, conversation handling, testing, refinement and final documentation.
+
+---
+
+# 📌 Project Objectives
+
+- Develop a chatbot for answering common college-related queries.
+- Collect and clean college FAQ data.
+- Implement a basic rule-based chatbot.
+- Apply text preprocessing techniques.
+- Convert text into numerical features using TF-IDF.
+- Use Machine Learning for query classification.
+- Design intents/categories for different college queries.
+- Handle conversation context.
+- Handle unknown and invalid user queries.
+- Test and improve chatbot performance.
+- Organize and document the complete project on GitHub.
 
 ---
 
 
 
-## 🎯 Overall Learning Journey
+---
+
+# 🧠 Main Concepts Learned
+
+- Python programming
+- Data collection
+- Data cleaning
+- Text preprocessing
+- Natural Language Processing basics
+- TF-IDF
+- Machine Learning classification
+- Naive Bayes
+- Intent classification
+- Cosine similarity
+- Conversation state
+- Context handling
+- Edge-case handling
+- Model testing
+- Performance evaluation
+- GitHub project management
+
+---
+
+# 🔄 Project Workflow
 
 ```text
-Week 1
-     ↓
-Learned how to collect and clean data
+College FAQ Dataset
+        ↓
+Data Collection
+        ↓
+Data Cleaning
+        ↓
+Basic Rule-Based Chatbot
+        ↓
+Text Preprocessing
+        ↓
+TF-IDF Vectorization
+        ↓
+Machine Learning Classification
+        ↓
+Intent Design
+        ↓
+Conversation State
+        ↓
+Context Handling
+        ↓
+Edge Case Handling
+        ↓
+Testing & Refinement
+        ↓
+Final Documentation
+        ↓
+GitHub
 
-     ↓
-
-Week 2
-     ↓
-Learned how to build a basic rule-based chatbot
-
-     ↓
-
-Week 3
-     ↓
-Learned NLP, TF-IDF, Machine Learning
-and chatbot evaluation
-
-     ↓
-
-Week 4
-     ↓
-Learned Intent Design and Intent Detection
-
-     ↓
-week 5
-     ↓
-continuous conversational chatbot instead of answering only independent questions.
-     ↓
-Final Goal
-     ↓
-Build a more intelligent College Chatbot
 ```
 
 
-e system
-- Custom College FAQ dataset
-- Easy to maintain and update
-- Fast response time
-- Simple and user-friendly design
-- Organized project structure
+
 
 ---
 
