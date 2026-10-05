@@ -1,1 +1,12 @@
-
+question,expected_intent,actual_intent,status,type
+Hello,greeting,greeting,Pass,normal
+hiii,greeting,greeting,Pass,variation
+admisson,admission,admission,Pass,spelling_error
+placment,placement,placement,Pass,spelling_error
+libary,library,library,Pass,spelling_error
+fees?,fees,fees,Pass,short_question
+COURSES,courses,courses,Pass,capitalization
+???,unknown,unknown,Pass,special_character
+,unknown,unknown,Pass,empty_input
+xyzabc,unknown,unknown,Pass,unknown
+What is the weather today?,unknown,unknown,Pass,unrelated
