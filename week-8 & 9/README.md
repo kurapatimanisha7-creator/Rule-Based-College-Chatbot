@@ -1,4 +1,4 @@
-# Week 8 – Final Documentation and Project Finalization
+# Week 8 & 9 – Final Documentation and Project Finalization
 
 ## Objective
 
